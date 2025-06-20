@@ -1,0 +1,70 @@
+Season,Country,Winners,Score,Runners-up,SW,SR,SW-SR,Country,Venue,Attendance,extra_time
+1955,Spain,Real Madrid,4–3,Reims,4,3,1,France,"Parc des Princes, Paris, France",38239,Normal
+1956,Spain,Real Madrid,2–0,Fiorentina,2,0,2,Italy,"Santiago Bernabéu, Madrid, Spain",124000,Normal
+1957,Spain,Real Madrid,3–2,AC Milan,3,2,1,Italy,"Heysel Stadium, Brussels, Belgium",67000,Prolongamento
+1958,Spain,Real Madrid,2–0,Reims,2,0,2,France,"Neckarstadion, Stuttgart, Germany",72000,Normal
+1959,Spain,Real Madrid,7–3,Eintracht Frankfurt,7,3,4,Germany,"Hampden Park, Glasgow, Scotland",127621,Normal
+1960,Portugal,SL Benfica,3–2,FC Barcelona,3,2,1,Spain,"Wankdorf Stadium, Bern, Switzerland",26732,Normal
+1961,Portugal,SL Benfica,5–3,Real Madrid,5,3,2,Spain,"Olympisch Stadion, Amsterdam, Netherlands",61257,Normal
+1962,Italy,AC Milan,2–1,SL Benfica,2,1,1,Portugal,"Wembley Stadium, London, England",45715,Normal
+1963,Italy,Inter Milan,3–1,Real Madrid,3,1,2,Spain,"Praterstadion, Vienna, Austria",71333,Normal
+1964,Italy,Inter Milan,1–0,SL Benfica,1,0,1,Portugal,"San Siro, Milan, Italy",89000,Normal
+1965,Spain,Real Madrid,2–1,Partizan,2,1,1,Yugoslavia,"Heysel Stadium, Brussels, Belgium",46745,Normal
+1966,Scotland,Celtic FC,2–1,Inter Milan,2,1,1,Italy,"Estádio Nacional, Lisbon, Portugal",45000,Normal
+1967,England,Manchester United,4–1,SL Benfica,4,1,3,Portugal,"Wembley Stadium, London, England",92225,Prolongamento
+1968,Italy,AC Milan,4–1,AFC Ajax,4,1,3,Netherlands,"Santiago Bernabéu, Madrid, Spain",31782,Normal
+1969,Netherlands,Feyenoord,2–1,Celtic FC,2,1,1,Scotland,"San Siro, Milan, Italy",53187,Prolongamento
+1970,Netherlands,AFC Ajax,2–0,Panathinaikos,2,0,2,Greece,"Wembley Stadium, London, England",83179,Normal
+1971,Netherlands,AFC Ajax,2–0,Inter Milan,2,0,2,Italy,"De Kuip, Rotterdam, Netherlands",61354,Normal
+1972,Netherlands,AFC Ajax,1–0,Juventus,1,0,1,Italy,"Red Star Stadium, Belgrade, SFR Yugoslavia",89484,Normal
+1973,Germany,Bayern Munich,1–1,Atlético Madrid,1,1,0,Spain,"Heysel Stadium, Brussels, Belgium",48722,Prolongamento
+1973,Germany,Bayern Munich,4–0,Atlético Madrid,4,0,4,Spain,"Heysel Stadium, Brussels, Belgium",23325,Prolongamento
+1974,Germany,Bayern Munich,2–0,Leeds United,2,0,2,England,"Parc des Princes, Paris, France",48374,Normal
+1975,Germany,Bayern Munich,1–0,Saint-Étienne,1,0,1,France,"Hampden Park, Glasgow, Scotland",54864,Normal
+1976,England,Liverpool FC,3–1,Borussia Mönchengladbach,3,1,2,Germany,"Stadio Olimpico, Rome, Italy",57000,Normal
+1977,England,Liverpool FC,1–0,Club Brugge,1,0,1,Belgium,"Wembley Stadium, London, England",92500,Normal
+1978,England,Nottingham Forest,1–0,Malmö FF,1,0,1,Sweden,"Olympiastadion, Munich, Germany",57500,Normal
+1979,England,Nottingham Forest,1–0,Hamburger SV,1,0,1,Germany,"Santiago Bernabéu, Madrid, Spain",51000,Normal
+1980,England,Liverpool FC,1–0,Real Madrid,1,0,1,Spain,"Parc des Princes, Paris, France",48360,Normal
+1981,England,Aston Villa,1–0,Bayern Munich,1,0,1,Germany,"De Kuip, Rotterdam, Netherlands",46000,Normal
+1982,Germany,Hamburger SV,1–0,Juventus,1,0,1,Italy,"Olympic Stadium, Athens, Greece",73500,Normal
+1983,England,Liverpool FC,1–1,Roma,1,1,0,Italy,"Stadio Olimpico, Rome, Italy",69693,Prolongamento
+1984,Italy,Juventus,1–0,Liverpool FC,1,0,1,England,"Heysel Stadium, Brussels, Belgium",58000,Normal
+1985,Romania,Steaua București,0–0,FC Barcelona,0,0,0,Spain,"Ramón Sánchez Pizjuán, Seville, Spain",70000,Prolongamento
+1986,Portugal,FC Porto,2–1,Bayern Munich,2,1,1,Germany,"Praterstadion, Vienna, Austria",57500,Normal
+1987,Netherlands,PSV Eindhoven,0–0,SL Benfica,0,0,0,Portugal,"Neckarstadion, Stuttgart, Germany",68000,Prolongamento
+1988,Italy,AC Milan,4–0,Steaua București,4,0,4,Romania,"Camp Nou, Barcelona, Spain",97000,Normal
+1989,Italy,AC Milan,1–0,SL Benfica,1,0,1,Portugal,"Praterstadion, Vienna, Austria",57558,Normal
+1990,Yugoslavia,Crvena Zvezda,0–0,Olympique Marseille,0,0,0,France,"Stadio San Nicola, Bari, Italy",56000,Prolongamento
+1991,Spain,FC Barcelona,1–0,Sampdoria,1,0,1,Italy,"Wembley Stadium, London, England",70827,Prolongamento
+1992,France,Olympique Marseille,1–0,AC Milan,1,0,1,Italy,"Olympiastadion, Munich, Germany",64400,Normal
+1993,Italy,AC Milan,4–0,FC Barcelona,4,0,4,Spain,"Olympic Stadium, Athens, Greece",70000,Normal
+1994,Netherlands,AFC Ajax,1–0,AC Milan,1,0,1,Italy,"Ernst-Happel-Stadion, Vienna, Austria",49730,Normal
+1995,Italy,Juventus,1–1,AFC Ajax,1,1,0,Netherlands,"Stadio Olimpico, Rome, Italy",70000,Prolongamento
+1996,Germany,Borussia Dortmund,3–1,Juventus,3,1,2,Italy,"Olympiastadion, Munich, Germany",59000,Normal
+1997,Spain,Real Madrid,1–0,Juventus,1,0,1,Italy,"Amsterdam Arena, Amsterdam, Netherlands",48500,Normal
+1998,England,Manchester United,2–1,Bayern Munich,2,1,1,Germany,"Camp Nou, Barcelona, Spain",90245,Normal
+1999,Spain,Real Madrid,3–0,Valencia CF,3,0,3,Spain,"Stade de France, Saint-Denis, France",80000,Normal
+2000,Germany,Bayern Munich,1–1,Valencia CF,1,1,0,Spain,"San Siro, Milan, Italy",71500,Prolongamento
+2001,Spain,Real Madrid,2–1,Bayer Leverkusen,2,1,1,Germany,"Hampden Park, Glasgow, Scotland",50499,Normal
+2002,Italy,AC Milan,0–0,Juventus,0,0,0,Italy,"Old Trafford, Manchester, England",62315,Prolongamento
+2003,Portugal,FC Porto,3–0,Monaco,3,0,3,France,"Arena AufSchalke, Gelsenkirchen, Germany",53053,Normal
+2004,England,Liverpool FC,3–3,AC Milan,3,3,0,Italy,"Atatürk Olympic Stadium, Istanbul, Turkey",69000,Prolongamento
+2005,Spain,FC Barcelona,2–1,Arsenal FC,2,1,1,England,"Stade de France, Saint-Denis, France",79610,Normal
+2006,Italy,AC Milan,2–1,Liverpool FC,2,1,1,England,"Olympic Stadium, Athens, Greece",63000,Normal
+2007,England,Manchester United,1–1,Chelsea FC,1,1,0,England,"Luzhniki Stadium, Moscow, Russia",67310,Prolongamento
+2008,Spain,FC Barcelona,2–0,Manchester United,2,0,2,England,"Stadio Olimpico, Rome, Italy",62467,Normal
+2009,Italy,Inter Milan,2–0,Bayern Munich,2,0,2,Germany,"Santiago Bernabéu, Madrid, Spain",73490,Normal
+2010,Spain,FC Barcelona,3–1,Manchester United,3,1,2,England,"Wembley Stadium, London, England",87695,Normal
+2011,England,Chelsea FC,1–1,Bayern Munich,1,1,0,Germany,"Allianz Arena, Munich, Germany",62500,Prolongamento
+2012,Germany,Bayern Munich,2–1,Borussia Dortmund,2,1,1,Germany,"Wembley Stadium, London, England",86298,Normal
+2013,Spain,Real Madrid,4–1,Atlético Madrid,4,1,3,Spain,"Estádio da Luz, Lisbon, Portugal",60976,Prolongamento
+2014,Spain,FC Barcelona,3–1,Juventus,3,1,2,Italy,"Olympiastadion, Berlin, Germany",70442,Normal
+2015,Spain,Real Madrid,1–1,Atlético Madrid,1,1,0,Spain,"San Siro, Milan, Italy",71942,Prolongamento
+2016,Spain,Real Madrid,4–1,Juventus,4,1,3,Italy,"Millennium Stadium, Cardiff, Wales",65842,Normal
+2017,Spain,Real Madrid,3–1,Liverpool FC,3,1,2,England,"NSC Olimpiyskiy Stadium, Kyiv, Ukraine",61561,Normal
+2018,England,Liverpool FC,2–0,Tottenham Hotspur,2,0,2,England,"Metropolitano Stadium, Madrid, Spain",63272,Normal
+2019,Germany,Bayern Munich,1–0,Paris Saint-Germain,1,0,1,France,"Estádio da Luz, Lisbon, Portugal",0,Normal
+2020,England,Chelsea FC,1–0,Manchester City,1,0,1,England,"Estádio do Dragão, Porto, Portugal",14110,Normal
+2021,Spain,Real Madrid,1–0,Liverpool FC,1,0,1,England,"Stade de France, Saint-Denis, France",75000,Normal
+2022,England,Manchester City,1–0,Inter Milan,1,0,1,Italy,"Atatürk Olympic Stadium, Istanbul, Turkey",71412,Normal
